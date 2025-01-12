@@ -1,0 +1,133 @@
+/* #root{
+	width: 90%;
+} */
+
+/* Container */
+.container {
+    width: 80vw;
+	height: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	color: black;
+}
+.timetable-container {
+	position: relative;
+	height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #f4f4f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	color: black;
+}
+
+/* Navbar styling */
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #007bff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.navbar button {
+    background-color: white;
+    border: none;
+    padding: 10px 20px;
+	margin: 10px;
+    border-radius: 5px;
+    color: #007bff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-weight: bold;
+}
+
+.navbar button:hover {
+    background-color: #0056b3;
+    color: white;
+}
+
+/* Form styling */
+.form {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    flex-basis: 30%;
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+	color: black;
+}
+
+select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.submit-btn {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.submit-btn:hover {
+    background-color: #218838;
+}
+
+/* Table styling */
+.timetable-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.timetable-table th, .timetable-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+}
+
+.timetable-table th {
+    background-color: #007bff;
+    color: white;
+}
+
+.timetable-table td {
+    background-color: #f9f9f9;
+}
+
+.timetable-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Adjust container for grid display */
+/* .container {
+    padding: 20px;
+    max-width: 1000px;
+    margin: auto;
+} */
+
+.form-group {
+    margin-bottom: 10px;
+}
+

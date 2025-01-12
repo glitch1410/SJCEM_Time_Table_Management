@@ -1,0 +1,107 @@
+/* Admin Dashboard Styles */
+.admin-dashboard {
+	padding: 20px;
+	font-family: Arial, sans-serif;
+	color: black;
+  }
+  
+  .admin-dashboard__section {
+	margin-bottom: 40px;
+  }
+  
+  .admin-dashboard__form, 
+  .admin-dashboard__user-list {
+	margin-bottom: 30px;
+	padding: 20px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	background-color: #f9f9f9;
+  }
+  
+  .admin-dashboard__form input, 
+  .admin-dashboard__form select, 
+  .admin-dashboard__form button {
+	display: block;
+	width: 100%;
+	margin-bottom: 15px;
+	padding: 10px;
+	font-size: 16px;
+  }
+  
+  .admin-dashboard__form button {
+	background-color: #28a745;
+	color: white;
+	border: none;
+	cursor: pointer;
+  }
+  
+  .admin-dashboard__form button:hover {
+	background-color: #218838;
+  }
+  
+  .admin-dashboard__user-list ul {
+	list-style-type: none;
+	padding: 0;
+  }
+  
+  .admin-dashboard__user-list li {
+	padding: 15px;
+	border-bottom: 1px solid #ddd;
+  }
+  
+  .admin-dashboard__user-list li strong {
+	display: inline-block;
+	width: 150px;
+  }
+  
+  .admin-dashboard__user-list li button {
+	margin-left: 10px;
+	padding: 5px 10px;
+	font-size: 14px;
+	cursor: pointer;
+	border-radius: 3px;
+  }
+  
+  .admin-dashboard__edit-btn {
+	background-color: #ffc107;
+	color: white;
+	border: none;
+  }
+  
+  .admin-dashboard__edit-btn:hover {
+	background-color: #e0a800;
+  }
+  
+  .admin-dashboard__delete-btn {
+	background-color: #dc3545;
+	color: white;
+	border: none;
+  }
+  
+  .admin-dashboard__delete-btn:hover {
+	background-color: #c82333;
+  }
+  
+  .admin-dashboard__cancel-btn {
+	background-color: #6c757d;
+	color: white;
+	border: none;
+  }
+  
+  .admin-dashboard__cancel-btn:hover {
+	background-color: #5a6268;
+  }
+  
+  .admin-dashboard__heading {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+  }
+  
+  .admin-dashboard__sub-heading {
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	color: #333;
+  }
+  

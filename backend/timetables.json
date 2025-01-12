@@ -1,0 +1,2727 @@
+{
+    "Computer Science": {
+        "Semester 3, Division A": {
+            "Monday": [
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture",
+                        "faculty": "OnizaShaikh",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics",
+                        "faculty": "DhanashreePawgi",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture",
+                        "faculty": "OnizaShaikh",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics",
+                        "faculty": "DhanashreePawgi",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Tuesday": [
+                [
+                    {
+                        "subject_name": "Database Management System Lab",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Universal Human Values",
+                        "faculty": "OnizaShaikh",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System Lab",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Basic Communication Skills -II",
+                        "faculty": "BeatriceLobo",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure Lab",
+                        "faculty": "NileshDeotale",
+                        "division": "A",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Discrete Mathematics Tutorial",
+                        "faculty": "DivyaMali",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure Lab",
+                        "faculty": "NileshDeotale",
+                        "division": "A",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Discrete Mathematics Tutorial",
+                        "faculty": "DivyaMali",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics",
+                        "faculty": "DhanashreePawgi",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Wednesday": [
+                [
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure",
+                        "faculty": "NileshDeotale",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture Lab",
+                        "faculty": "OnizaShaikh",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture Lab",
+                        "faculty": "OnizaShaikh",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Thursday": [
+                [
+                    {
+                        "subject_name": "Discrete Mathematics Tutorial",
+                        "faculty": "DivyaMali",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics Tutorial",
+                        "faculty": "DivyaMali",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure",
+                        "faculty": "NileshDeotale",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture",
+                        "faculty": "OnizaShaikh",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Friday": [
+                [
+                    {
+                        "subject_name": "Data Structure Lab",
+                        "faculty": "NileshDeotale",
+                        "division": "A",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure Lab",
+                        "faculty": "NileshDeotale",
+                        "division": "A",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure",
+                        "faculty": "NileshDeotale",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Universal Human Values",
+                        "faculty": "OnizaShaikh",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System Lab",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System Lab",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Saturday": [
+                [
+                    {
+                        "subject_name": "Database Management System",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure",
+                        "faculty": "NileshDeotale",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture Lab",
+                        "faculty": "OnizaShaikh",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture Lab",
+                        "faculty": "OnizaShaikh",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture",
+                        "faculty": "OnizaShaikh",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Universal Human Values",
+                        "faculty": "OnizaShaikh",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ]
+            ]
+        },
+        "Semester 5, Division A": {
+            "Monday": [
+                [
+                    {
+                        "subject_name": "Internet Programming",
+                        "faculty": "PoojaPatil",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Internet Programming",
+                        "faculty": "PoojaPatil",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Software Engineering",
+                        "faculty": "AjaySirsat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Tuesday": [
+                [
+                    {
+                        "subject_name": "Software Engineering",
+                        "faculty": "AjaySirsat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network",
+                        "faculty": "SubashiniShukla",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Software Engineering",
+                        "faculty": "AjaySirsat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network",
+                        "faculty": "SubashiniShukla",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Software Engineering Lab",
+                        "faculty": "AjaySirsat",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Computer Network Lab",
+                        "faculty": "SubashiniShukla",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Software Engineering Lab",
+                        "faculty": "AjaySirsat",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Computer Network Lab",
+                        "faculty": "SubashiniShukla",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Wednesday": [
+                [
+                    {
+                        "subject_name": "Theoretical Computer Science",
+                        "faculty": "AditiRaut",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Theoretical Computer Science",
+                        "faculty": "AditiRaut",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network",
+                        "faculty": "SubashiniShukla",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Thursday": [
+                [
+                    {
+                        "subject_name": "Internet Programming",
+                        "faculty": "PoojaPatil",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Software Engineering Lab",
+                        "faculty": "AjaySirsat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Software Engineering Lab",
+                        "faculty": "AjaySirsat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Theoretical Computer Science",
+                        "faculty": "AditiRaut",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Internet Programming",
+                        "faculty": "PoojaPatil",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Friday": [
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining Lab",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining Lab",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network",
+                        "faculty": "SubashiniShukla",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network Lab",
+                        "faculty": "SubashiniShukla",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network Lab",
+                        "faculty": "SubashiniShukla",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Saturday": [
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining Lab",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining Lab",
+                        "faculty": "RashmiBhat",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ]
+            ]
+        },
+        "Semester 7, Division A": {
+            "Monday": [
+                [],
+                [],
+                [
+                    {
+                        "subject_name": "Big Data Analytics",
+                        "faculty": "AditiRaut",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Vision",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Vision Lab",
+                        "faculty": "ChetanPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Vision Lab",
+                        "faculty": "ChetanPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Tuesday": [
+                [
+                    {
+                        "subject_name": "Machine Vision",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Learning",
+                        "faculty": "DeepikaNadar",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Learning",
+                        "faculty": "DeepikaNadar",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Learning",
+                        "faculty": "DeepikaNadar",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Big Data Analytics",
+                        "faculty": "AditiRaut",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Learning",
+                        "faculty": "DeepikaNadar",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Wednesday": [
+                [
+                    {
+                        "subject_name": "Machine Learning Lab",
+                        "faculty": "DeepikaNadar",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Learning Lab",
+                        "faculty": "DeepikaNadar",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Learning Lab",
+                        "faculty": "DeepikaNadar",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Learning Lab",
+                        "faculty": "DeepikaNadar",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Vision",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Vision",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Thursday": [
+                [
+                    {
+                        "subject_name": "Big Data Analytics",
+                        "faculty": "AditiRaut",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [],
+                [],
+                [],
+                [
+                    {
+                        "subject_name": "Machine Vision Lab",
+                        "faculty": "ChetanPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Vision Lab",
+                        "faculty": "ChetanPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Friday": [
+                [],
+                [],
+                [
+                    {
+                        "subject_name": "Augmented Reality Virtual Reality Lab",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Augmented Reality Virtual Reality Lab",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Big Data Analytics Lab",
+                        "faculty": "AditiRaut",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Big Data Analytics Lab",
+                        "faculty": "AditiRaut",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Saturday": [
+                [
+                    {
+                        "subject_name": "Big Data Analytics",
+                        "faculty": "AditiRaut",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [],
+                [
+                    {
+                        "subject_name": "Augmented Reality Virtual Reality Lab",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 7
+                    },
+                    {
+                        "subject_name": "Big Data Analytics Lab",
+                        "faculty": "AditiRaut",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Augmented Reality Virtual Reality Lab",
+                        "faculty": "AshishKhot",
+                        "division": "A",
+                        "semester": 7
+                    },
+                    {
+                        "subject_name": "Big Data Analytics Lab",
+                        "faculty": "AditiRaut",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [],
+                []
+            ]
+        },
+        "Semester 3, Division B": {
+            "Monday": [
+                [
+                    {
+                        "subject_name": "Database Management System",
+                        "faculty": "RashmiBhat",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics",
+                        "faculty": "ReshmaChavan",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure",
+                        "faculty": "NileshDeotale",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Tuesday": [
+                [
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Universal Human Values",
+                        "faculty": "ShubhamNanal",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Basic Communication Skills -II",
+                        "faculty": "BeatriceLobo",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics Tutorial",
+                        "faculty": "DivyaMali",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics Tutorial",
+                        "faculty": "DivyaMali",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Wednesday": [
+                [
+                    {
+                        "subject_name": "Data Structure Lab",
+                        "faculty": "MeenalKate",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure Lab",
+                        "faculty": "MeenalKate",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture Lab",
+                        "faculty": "OnizaShaikh",
+                        "division": "B",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Discrete Mathematics Tutorial",
+                        "faculty": "DivyaMali",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture Lab",
+                        "faculty": "OnizaShaikh",
+                        "division": "B",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Discrete Mathematics Tutorial",
+                        "faculty": "DivyaMali",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure Lab",
+                        "faculty": "MeenalKate",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure Lab",
+                        "faculty": "MeenalKate",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Thursday": [
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture",
+                        "faculty": "OnizaShaikh",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture",
+                        "faculty": "OnizaShaikh",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System Lab",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture Lab",
+                        "faculty": "OnizaShaikh",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System Lab",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture Lab",
+                        "faculty": "OnizaShaikh",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [],
+                [
+                    {
+                        "subject_name": "Database Management System",
+                        "faculty": "RashmiBhat",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Friday": [
+                [
+                    {
+                        "subject_name": "Universal Human Values",
+                        "faculty": "ShubhamNanal",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture",
+                        "faculty": "OnizaShaikh",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics",
+                        "faculty": "ReshmaChavan",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Universal Human Values",
+                        "faculty": "ShubhamNanal",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics",
+                        "faculty": "ReshmaChavan",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor And Computer Architecture",
+                        "faculty": "OnizaShaikh",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Saturday": [
+                [
+                    {
+                        "subject_name": "Database Management System Lab",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System Lab",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language Lab",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System",
+                        "faculty": "RashmiBhat",
+                        "division": "B",
+                        "semester": 3
+                    }
+                ]
+            ]
+        },
+        "Semester 5, Division B": {
+            "Monday": [
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining",
+                        "faculty": "DeepikaNadar",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network",
+                        "faculty": "SubashiniShukla",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining",
+                        "faculty": "DeepikaNadar",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining",
+                        "faculty": "DeepikaNadar",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining Lab",
+                        "faculty": "DeepikaNadar",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining Lab",
+                        "faculty": "DeepikaNadar",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Tuesday": [
+                [
+                    {
+                        "subject_name": "Software Engineering",
+                        "faculty": "MeenalKate",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Theoretical Computer Science",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Software Engineering",
+                        "faculty": "MeenalKate",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Internet Programming",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Wednesday": [
+                [],
+                [
+                    {
+                        "subject_name": "Internet Programming",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network",
+                        "faculty": "SubashiniShukla",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Theoretical Computer Science",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [],
+                []
+            ],
+            "Thursday": [
+                [
+                    {
+                        "subject_name": "Software Engineering Lab",
+                        "faculty": "AjaySirsat",
+                        "division": "B",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Software Engineering Lab",
+                        "faculty": "AjaySirsat",
+                        "division": "B",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Internet Programming",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Internet Programming",
+                        "faculty": "PoojaPatil",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network",
+                        "faculty": "SubashiniShukla",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining",
+                        "faculty": "DeepikaNadar",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Friday": [
+                [
+                    {
+                        "subject_name": "Software Engineering Lab",
+                        "faculty": "AjaySirsat",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Software Engineering Lab",
+                        "faculty": "AjaySirsat",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network",
+                        "faculty": "SubashiniShukla",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Theoretical Computer Science",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Saturday": [
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining Lab",
+                        "faculty": "DeepikaNadar",
+                        "division": "B",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Computer Network Lab",
+                        "faculty": "SubashiniShukla",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Warehouse and Mining Lab",
+                        "faculty": "DeepikaNadar",
+                        "division": "B",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Computer Network Lab",
+                        "faculty": "SubashiniShukla",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program",
+                        "faculty": "RafikShah",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network Lab",
+                        "faculty": "SubashiniShukla",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network Lab",
+                        "faculty": "SubashiniShukla",
+                        "division": "B",
+                        "semester": 5
+                    }
+                ]
+            ]
+        },
+        "Semester 7, Division B": {
+            "Monday": [
+                [],
+                [],
+                [
+                    {
+                        "subject_name": "Machine Learning Lab",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Learning Lab",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Big Data Analytics Lab",
+                        "faculty": "AditiRaut",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Big Data Analytics Lab",
+                        "faculty": "AditiRaut",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Tuesday": [
+                [
+                    {
+                        "subject_name": "Machine Vision Lab",
+                        "faculty": "ChetanPatil",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Vision Lab",
+                        "faculty": "ChetanPatil",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Augmented Reality Virtual Reality Lab",
+                        "faculty": "AshishKhot",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Augmented Reality Virtual Reality Lab",
+                        "faculty": "AshishKhot",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Vision",
+                        "faculty": "AshishKhot",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Learning",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Wednesday": [
+                [
+                    {
+                        "subject_name": "Machine Vision Lab",
+                        "faculty": "ChetanPatil",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Vision Lab",
+                        "faculty": "ChetanPatil",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Vision",
+                        "faculty": "AshishKhot",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Vision",
+                        "faculty": "AshishKhot",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Learning Lab",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 7
+                    },
+                    {
+                        "subject_name": "Big Data Analytics Lab",
+                        "faculty": "AditiRaut",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Learning Lab",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 7
+                    },
+                    {
+                        "subject_name": "Big Data Analytics Lab",
+                        "faculty": "AditiRaut",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Thursday": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "Friday": [
+                [
+                    {
+                        "subject_name": "Machine Learning",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [],
+                [
+                    {
+                        "subject_name": "Big Data Analytics",
+                        "faculty": "AjaySirsat",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [],
+                [
+                    {
+                        "subject_name": "Machine Learning",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Learning",
+                        "faculty": "VidyaKawtikwar",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Saturday": [
+                [
+                    {
+                        "subject_name": "Big Data Analytics",
+                        "faculty": "AjaySirsat",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Machine Vision",
+                        "faculty": "AshishKhot",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Big Data Analytics",
+                        "faculty": "AjaySirsat",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Big Data Analytics",
+                        "faculty": "AjaySirsat",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Augmented Reality Virtual Reality Lab",
+                        "faculty": "AshishKhot",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Augmented Reality Virtual Reality Lab",
+                        "faculty": "AshishKhot",
+                        "division": "B",
+                        "semester": 7
+                    }
+                ]
+            ]
+        }
+    },
+    "Information Technology": {
+        "Semester 3, Division A": {
+            "Monday": [
+                [
+                    {
+                        "subject_name": "Data Structure Lab",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure Lab",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System Lab ",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System Lab ",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor and Computer Architechture Lab",
+                        "faculty": "AishwariyaChuri",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor and Computer Architechture Lab",
+                        "faculty": "AishwariyaChuri",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Tuesday": [
+                [
+                    {
+                        "subject_name": "Programming Language 1 Lab",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language 1 Lab",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure Lab",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structure Lab",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor and Computer Architechture",
+                        "faculty": "JoslynG",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language 1",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Wednesday": [
+                [
+                    {
+                        "subject_name": "Programming Language 1 Lab",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language 1 Lab",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics Tutorial",
+                        "faculty": "DhanashreePawgi",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics Tutorial",
+                        "faculty": "DhanashreePawgi",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System Lab ",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management System Lab ",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Thursday": [
+                [
+                    {
+                        "subject_name": "Database Management system",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language 1",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics Tutorial",
+                        "faculty": "DhanashreePawgi",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Discrete Mathematics Tutorial",
+                        "faculty": "DhanashreePawgi",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor and Computer Architechture Lab",
+                        "faculty": "AishwariyaChuri",
+                        "division": "A",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Basic Communication Skill-II",
+                        "faculty": "BeatriceLobo",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor and Computer Architechture Lab",
+                        "faculty": "AishwariyaChuri",
+                        "division": "A",
+                        "semester": 3
+                    },
+                    {
+                        "subject_name": "Universal Human Values-2 Lab",
+                        "faculty": "SuvarnaMore",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Friday": [
+                [
+                    {
+                        "subject_name": "Programming Language 1 Lab",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language 1 Lab",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structures",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor and Computer Architechture",
+                        "faculty": "JoslynG",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management system",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor and Computer Architechture",
+                        "faculty": "JoslynG",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ]
+            ],
+            "Saturday": [
+                [
+                    {
+                        "subject_name": "Database Management system",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Data Structures",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Microprocessor and Computer Architechture",
+                        "faculty": "JoslynG",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Database Management system",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language 1 Lab",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Programming Language 1 Lab",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 3
+                    }
+                ]
+            ]
+        },
+        "Semester 5, Division A": {
+            "Monday": [
+                [
+                    {
+                        "subject_name": "Computer Network Security",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network Security",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": " Entrepreneurship and E- business",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Internet Programming",
+                        "faculty": "ShraddhaMore",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": " Internet Programming Lab",
+                        "faculty": "ShraddhaMore",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Employability Enhancement Program Lab",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": " Internet Programming Lab",
+                        "faculty": "ShraddhaMore",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Employability Enhancement Program Lab",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Tuesday": [
+                [
+                    {
+                        "subject_name": " DevOps Lab",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": " DevOps Lab",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network Security",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program Lab",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Computer Network Security Lab",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program Lab",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Computer Network Security Lab",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Wednesday": [
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program Lab",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program Lab",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network Security Lab",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Computer Network Security Lab",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Mini Project",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Software Engineering",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": " Corporate Communication & Employability Skill Lab",
+                        "faculty": "EknathPatil",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Thursday": [
+                [
+                    {
+                        "subject_name": " Advance Data Structure and Analysis",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Software Engineering",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": " DevOps Lab",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Computer Network Security Lab",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": " DevOps Lab",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Computer Network Security Lab",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program Lab",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": " DevOps Lab",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Employability Enhancement Program Lab",
+                        "faculty": "RafikShah",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": " DevOps Lab",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Friday": [
+                [
+                    {
+                        "subject_name": " Advance Data Structure and Analysis",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": " Advance Data Structure and Analysis",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": " Internet Programming Lab",
+                        "faculty": "ShraddhaMore",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": " Internet Programming Lab",
+                        "faculty": "ShraddhaMore",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": " Entrepreneurship and E- business",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Internet Programming",
+                        "faculty": "ShraddhaMore",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ]
+            ],
+            "Saturday": [
+                [
+                    {
+                        "subject_name": " Entrepreneurship and E- business",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Software Engineering",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": " DevOps Lab",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Computer Network Security Lab",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [
+                    {
+                        "subject_name": " DevOps Lab",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 5
+                    },
+                    {
+                        "subject_name": "Computer Network Security Lab",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ],
+                [],
+                [
+                    {
+                        "subject_name": "Internet Programming",
+                        "faculty": "ShraddhaMore",
+                        "division": "A",
+                        "semester": 5
+                    }
+                ]
+            ]
+        },
+        "Semester 7, Division A": {
+            "Monday": [
+                [
+                    {
+                        "subject_name": "IOE Lab ",
+                        "faculty": "SachinSase",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "IOE Lab ",
+                        "faculty": "SachinSase",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [],
+                [
+                    {
+                        "subject_name": "Management Information System",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [],
+                [
+                    {
+                        "subject_name": "Information Retrieval System",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Tuesday": [
+                [
+                    {
+                        "subject_name": "Artificial Intelligence & Data Science Lab ",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Artificial Intelligence & Data Science Lab ",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "IOE Lab ",
+                        "faculty": "SachinSase",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "IOE Lab ",
+                        "faculty": "SachinSase",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Infrastructure Security",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Artificial Intelligence & Data Science",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Wednesday": [
+                [
+                    {
+                        "subject_name": "Artificial Intelligence & Data Science",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [],
+                [
+                    {
+                        "subject_name": "Secure Application Development Lab ",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Secure Application Development Lab ",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Internet of Everything",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Internet of Everything",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Thursday": [
+                [
+                    {
+                        "subject_name": "Recent Open-Source Project Lab",
+                        "faculty": "ShraddhaMore",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Recent Open-Source Project Lab",
+                        "faculty": "ShraddhaMore",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Recent Open-Source Project Lab",
+                        "faculty": "ShraddhaMore",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Recent Open-Source Project Lab",
+                        "faculty": "ShraddhaMore",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Artificial Intelligence & Data Science Lab ",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 7
+                    },
+                    {
+                        "subject_name": "Secure Application Development Lab ",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Artificial Intelligence & Data Science Lab ",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 7
+                    },
+                    {
+                        "subject_name": "Secure Application Development Lab ",
+                        "faculty": "PratikshaPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ]
+            ],
+            "Friday": [
+                [
+                    {
+                        "subject_name": "Artificial Intelligence & Data Science",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [],
+                [
+                    {
+                        "subject_name": "Infrastructure Security",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Information Retrieval System",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Internet of Everything",
+                        "faculty": "ArunSaxena",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                []
+            ],
+            "Saturday": [
+                [],
+                [
+                    {
+                        "subject_name": "Management Information System",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Management Information System",
+                        "faculty": "MayaPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [],
+                [
+                    {
+                        "subject_name": "Infrastructure Security",
+                        "faculty": "AbhaysinhBhosale",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ],
+                [
+                    {
+                        "subject_name": "Information Retrieval System",
+                        "faculty": "TanviPatil",
+                        "division": "A",
+                        "semester": 7
+                    }
+                ]
+            ]
+        }
+    }
+}
